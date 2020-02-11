@@ -36,6 +36,7 @@ Graph related questions mainly focus on depth first search and breath first sear
 |   6 | Tarjan's algorithm       | Cut node                                                                     |
 |   7 |                          | Cut edge                                                                     |
 |   8 | Topological Sort         | Node dependencies                                                            |
+|   9 | [[https://code.dennyzhang.com/followup-bipartite][#bipartite]]               | Whether graph is a bipartite graph                                           |
 #+TBLFM: $1=@-1$1+1;N
 
 *Top Questions*
@@ -74,6 +75,7 @@ Graph related questions mainly focus on depth first search and breath first sear
 |  28 | Find shortest paths in a weighted graph                     | [[https://code.dennyzhang.com/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance][LeetCode: Find the City With the Smallest Number of Neighbors]] |
 |  29 | Find shortest distance for two nodes in an undirected graph |                                                               |
 |  30 | Graph trasversal from boarders                              | [[https://code.dennyzhang.com/surrounded-regions][Leetcode: Surrounded Regions]]                                  |
+|  31 | Is Graph Bipartite                                          | [[https://code.dennyzhang.com/is-graph-bipartite][LeetCode: Is Graph Bipartite]]                                  |
 #+TBLFM: $1=@-1$1+1;N
 
 Floyd-Warshall algorithm: Time O(n*n*n)
